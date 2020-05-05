@@ -2,5 +2,5 @@
 layout:slide
 title":Welcome to our second slide"
 ---
-Your text
+can't get blood from a stone
 Use the left arrow to go back!
